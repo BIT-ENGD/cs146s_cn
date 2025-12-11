@@ -7,3 +7,13 @@
 
 
 ## Vibe coding 订阅计划
+
+
+
+## 免费工具
+
+- [iFlow](https://iflow.cn/)
+- [Qwencode](https://qwenlm.github.io/qwen-code-docs/en/cli/)
+- [Codebuddy] (https://codebuddy.cn)
+  
+  
