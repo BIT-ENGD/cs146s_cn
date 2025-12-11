@@ -16,6 +16,6 @@
 
 - [iFlow](https://iflow.cn/)
 - [Qwencode](https://qwenlm.github.io/qwen-code-docs/en/cli/)
-- [Codebuddy] (https://codebuddy.cn)
+- [Codebuddy](https://codebuddy.cn)
   
   
