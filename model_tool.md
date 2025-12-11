@@ -21,6 +21,5 @@
 
 ## 推荐工具
 
-- [claude code 及 使用方法](https://blog.csdn.net/weixin_52136627/article/details/149719262)
-
+- [claude code 及 使用方法](https://blog.csdn.net/weixin_52136627/article/details/149719262)  ，Claude code [模型切换工具](https://github.com/farion1231/cc-switch)
 - 商业工具： Trae (字节）， Qoder(阿里）, codebuddy(腾讯）
