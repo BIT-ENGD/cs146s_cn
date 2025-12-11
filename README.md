@@ -12,6 +12,9 @@
 
 Awsome Vibe Coding :
 
+<img width="320" height="294" alt="image" src="https://github.com/user-attachments/assets/073742ab-cba1-40ed-839a-86f11264b530" />
+
+
 ## 学分
 3学分
 
