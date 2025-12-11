@@ -15,7 +15,7 @@
 
 ## Claude Code Easy 套件
 
-[Claude Code Easy](https://github.com/znsoftm/cceasy)  本课程配套 一键优化配置软件
+[Claude Code Easy](https://github.com/znsoftm/cceasy)  本课程配套 一键安装、配置Claude code配置软件
 
 ## 技术支持微信群
 
