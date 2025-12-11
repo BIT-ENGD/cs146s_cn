@@ -7,7 +7,8 @@
 
 
 ## Vibe coding 订阅计划
-
+- [GLM coding plan](https://bigmodel.cn/glm-coding)
+- [K2 会员计划](https://www.kimi.com/membership/pricing?from=upgrade_plan&track_id=1d2446f5-f45f-4ae5-961e-c0afe936a115)
 
 
 ## 免费工具
