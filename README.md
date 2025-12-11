@@ -16,8 +16,8 @@ Awsome Vibe Coding :
 
 
 ## 中文化支持
-- 中文视频
-- 中文教材及资料
+- [中文视频](video.md)
+- [中文教材及资料](material.md)
 - [本地化vibe coding工具](model_tool.md)
 ## 学分
 3学分
