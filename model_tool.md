@@ -18,4 +18,9 @@
 - [Qwencode](https://qwenlm.github.io/qwen-code-docs/en/cli/)
 - [Codebuddy](https://codebuddy.cn)
   
-  
+
+## 推荐工具
+
+- [claude code 及 使用方法](https://blog.csdn.net/weixin_52136627/article/details/149719262)
+
+- 
