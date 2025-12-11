@@ -1,4 +1,4 @@
-<img width="320" height="294" alt="image" src="https://github.com/user-attachments/assets/e110c3f3-fa2b-4a4e-9c14-d76f243660cd" />## 课程简介  [课程大纲及资源](syllabus.md)
+## 课程简介  [课程大纲及资源](syllabus.md)
 
 近年来，大型语言模型（LLM）为软件开发带来了革命性的新范式。传统的软件开发生命周期正在各个阶段被人工智能驱动的自动化技术重塑，由此引发了一个关键问题：新一代软件工程师应如何利用这些技术进步，将自身生产力提升十倍，并为未来的职业发展做好准备？
 
