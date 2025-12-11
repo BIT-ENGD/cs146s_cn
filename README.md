@@ -15,6 +15,10 @@ Awsome Vibe Coding :
 <img width="320" height="294" alt="image" src="https://github.com/user-attachments/assets/073742ab-cba1-40ed-839a-86f11264b530" />
 
 
+## 中文化支持
+- 中文视频
+- 中文教材及资料
+- 中国本地化vibe coding工具及相应优惠信息
 ## 学分
 3学分
 
