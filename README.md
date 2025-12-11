@@ -13,6 +13,9 @@
 - [中文教材及资料](material.md)
 - [中文视频](video.md)  包括官方视频汉化版 以及 国内up主的vibe coding视频。
 
+## Claude Code Easy 套件
+
+[Claude Code Easy](https://github.com/znsoftm/cceasy)  本课程配套软件
 
 ## 技术支持微信群
 
