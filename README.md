@@ -28,7 +28,7 @@
 
 组建微信群，提供中国化支持，包括vibe coding工具，实战技术，高级项目开发技术等。
 
-Awsome Vibe Coding :
+Awesome Vibe Coding :
 
 <img width="320" height="294" alt="image" src="https://github.com/user-attachments/assets/073742ab-cba1-40ed-839a-86f11264b530" />
 
