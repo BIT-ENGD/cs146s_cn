@@ -1,7 +1,7 @@
 ## 课程简介  [课程大纲及资源](syllabus.md)
 
 
-
+![课程Logo](/cs146slogo.jpg "Magic Gardens")
 
 
 
