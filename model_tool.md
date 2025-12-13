@@ -12,7 +12,7 @@
 - [豆包编程模型](https://www.volcengine.com/activity/codingplan) 最低首月9.9元，放量价格每月49元
 
 
-## 免费工具
+## 免费 Vibe Coding 工具
 
 - [iFlow Cli](https://cli.iflow.cn/)
 - [Qwencode](https://qwenlm.github.io/qwen-code-docs/en/cli/)
