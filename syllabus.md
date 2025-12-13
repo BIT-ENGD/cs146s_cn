@@ -240,8 +240,8 @@ CS146S: 现代软件开发者
 
 | 名称                         | 简要                                                         | 链接                                                         |
 | ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Awesome Vibe Coding          | 一个精选的vibe coding参考列表，专注于通过AI协作编写代码，包括工具、概念和提示工程指南。 | [link](https://github.com/filipecalegario/awesome-vibe-coding) |
-| Context Engineering Template | 介绍上下文工程作为vibe coding的基础，教导如何使用CLAUDE.md和INITIAL.md等文件创建项目规则和功能请求，以实现一致的AI驱动开发。 | [link](https://github.com/coleam00/context-engineering-intro) |
-| Vibe Coding Workflow         | 提供一个5阶段AI工作流程，用于快速构建MVP，使用结构化文档和通用代理指令指导Claude Code和Cursor等工具。 | [link](https://github.com/KhazP/vibe-coding-prompt-template) |
-| Rulebook AI                  | 一个CLI工具，用于打包和部署一致的专家环境到AI编码助手，通过可移植的“Packs”和版本化规则确保跨工具的一致性。 | [link](https://github.com/botingw/rulebook-ai)               |
-| Vibe Kanban                  | 一个基于Rust的编排平台，用于管理AI编码代理（如Claude Code、Gemini CLI），支持任务切换、并行执行和集中MCP配置。 | [link](https://github.com/BloopAI/vibe-kanban)               |
+| Awesome Vibe Coding          |精选的Vibe Coding编程资源 | [link](https://github.com/filipecalegario/awesome-vibe-coding) |
+|  CCSwitch                    | Claude Code 配置切换工具 | [link]([https://github.com/KhazP/vibe-coding-prompt-template](https://github.com/farion1231/cc-switch  )) |
+| Vibe Coding Workflow         |一些Vibe coding 模型资源 | [link](https://github.com/KhazP/vibe-coding-prompt-template) |
+
+
