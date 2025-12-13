@@ -14,7 +14,7 @@
 
 ## 免费工具
 
-- [iFlow](https://iflow.cn/)
+- [iFlow Cli](https://cli.iflow.cn/)
 - [Qwencode](https://qwenlm.github.io/qwen-code-docs/en/cli/)
 - [Codebuddy](https://codebuddy.cn)
   
