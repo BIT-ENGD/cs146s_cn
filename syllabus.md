@@ -26,9 +26,9 @@
 
 - [LLM 提示词操练场](https://github.com/mihail911/modern-software-dev-assignments/tree/master/week1)
 
-**9/22 (周一):** 介绍与 LLM 是如何制造的 - [幻灯片](https://docs.google.com/presentation/d/1zT2Ofy88cajLTLkd7TcuSM4BCELvF9qQdHmlz33i4t0/edit?usp=sharing)
+**9/22 (周一):** 介绍与 LLM 是如何制造的 - [PPT](https://docs.google.com/presentation/d/1zT2Ofy88cajLTLkd7TcuSM4BCELvF9qQdHmlz33i4t0/edit?usp=sharing)
 
-**9/26 (周五):** LLM 高级提示技巧 - [幻灯片](https://docs.google.com/presentation/d/1MIhw8p6TLGdbQ9TcxhXSs5BaPf5d_h77QY70RHNfeGs/edit?usp=drive_link)
+**9/26 (周五):** LLM 高级提示技巧 - [PPT](https://docs.google.com/presentation/d/1MIhw8p6TLGdbQ9TcxhXSs5BaPf5d_h77QY70RHNfeGs/edit?usp=drive_link)
 
 ### 第二周：编码智能体 (Coding Agents) 剖析
 
@@ -51,9 +51,9 @@
 
 - [AI IDE 的第一步](https://github.com/mihail911/modern-software-dev-assignments/tree/master/week2)
 
-**9/29 (周一):** 从零构建编码智能体 - [幻灯片](https://docs.google.com/presentation/d/11CP26VhsjnZOmi9YFgLlonzdib9BLyAlgc4cEvC5Fps/edit?usp=sharing), [完成的练习](https://drive.google.com/file/d/1YtpKFVG13DHyQ2i3HOtwyVJOV90nWeL2/view?usp=drive_link)
+**9/29 (周一):** 从零构建编码智能体 - [PPT](https://docs.google.com/presentation/d/11CP26VhsjnZOmi9YFgLlonzdib9BLyAlgc4cEvC5Fps/edit?usp=sharing), [完成的练习](https://drive.google.com/file/d/1YtpKFVG13DHyQ2i3HOtwyVJOV90nWeL2/view?usp=drive_link)
 
-**10/3 (周五):** 构建自定义 MCP 服务器 - [幻灯片](https://docs.google.com/presentation/d/1zSC2ra77XOUrJeyS85houg1DU7z9hq5Y4ebagTch-5o/edit?usp=drive_link), [完成的练习](https://drive.google.com/file/d/1J6lgZWcxPzpCpjujJSnW1aAkCYF6Yxv3/view?usp=drive_link)
+**10/3 (周五):** 构建自定义 MCP 服务器 - [PPT](https://docs.google.com/presentation/d/1zSC2ra77XOUrJeyS85houg1DU7z9hq5Y4ebagTch-5o/edit?usp=drive_link), [完成的练习](https://drive.google.com/file/d/1J6lgZWcxPzpCpjujJSnW1aAkCYF6Yxv3/view?usp=drive_link)
 
 ### 第三周：AI 集成开发环境 (IDE)
 
@@ -76,9 +76,9 @@
 
 - [构建自定义 MCP 服务器](https://github.com/mihail911/modern-software-dev-assignments/blob/master/week3/assignment.md)
 
-**10/6 (周一):** 从第一个提示词到最佳 IDE 设置 - [幻灯片](https://docs.google.com/presentation/d/11pQNCde_mmRnImBat0Zymnp8TCS_cT_1up7zbcj6Sjg/edit?usp=sharing), [设计文档模板](https://drive.google.com/file/d/1MZ0Qx68Vzw4x5x_XcV8XiPLp7fFDe1LJ/view?usp=drive_link)
+**10/6 (周一):** 从第一个提示词到最佳 IDE 设置 - [PPT](https://docs.google.com/presentation/d/11pQNCde_mmRnImBat0Zymnp8TCS_cT_1up7zbcj6Sjg/edit?usp=sharing), [设计文档模板](https://drive.google.com/file/d/1MZ0Qx68Vzw4x5x_XcV8XiPLp7fFDe1LJ/view?usp=drive_link)
 
-**10/10 (周五):** [Silas Alberti](https://www.linkedin.com/in/silasalberti/)，研究主管 [Cognition](https://cognition.ai/) - [幻灯片](https://docs.google.com/presentation/d/1i0pRttHf72lgz8C-n7DSegcLBgncYZe_ppU7dB9zhUA/edit?usp=sharing)
+**10/10 (周五):** [Silas Alberti](https://www.linkedin.com/in/silasalberti/)，研究主管 [Cognition](https://cognition.ai/) - [PPT](https://docs.google.com/presentation/d/1i0pRttHf72lgz8C-n7DSegcLBgncYZe_ppU7dB9zhUA/edit?usp=sharing)
 
 ### 第四周：编码智能体模式
 
@@ -100,9 +100,9 @@
 
 - [使用 Claude Code 编程](https://github.com/mihail911/modern-software-dev-assignments/blob/master/week4/assignment.md)
 
-**10/13 (周一):** 如何成为智能体管理者 - [幻灯片](https://docs.google.com/presentation/d/19mgkwAnJDc7JuJy0zhhoY0ZC15DiNpxL8kchPDnRkRQ/edit?usp=sharing)
+**10/13 (周一):** 如何成为智能体管理者 - [PPT](https://docs.google.com/presentation/d/19mgkwAnJDc7JuJy0zhhoY0ZC15DiNpxL8kchPDnRkRQ/edit?usp=sharing)
 
-**10/17 (周五):** [Boris Cherney](https://www.linkedin.com/in/bcherny/)，[Claude Code](https://www.anthropic.com/claude-code) 创作者 - [幻灯片](https://docs.google.com/presentation/d/1bv7Zozn6z45CAh-IyX99dMPMyXCHC7zj95UfwErBYQ8/edit?usp=sharing)
+**10/17 (周五):** [Boris Cherney](https://www.linkedin.com/in/bcherny/)，[Claude Code](https://www.anthropic.com/claude-code) 创作者 - [PPT](https://docs.google.com/presentation/d/1bv7Zozn6z45CAh-IyX99dMPMyXCHC7zj95UfwErBYQ8/edit?usp=sharing)
 
 ### 第五周：现代终端
 
@@ -121,9 +121,9 @@
 
 - [使用 Warp 进行代理式开发](https://github.com/mihail911/modern-software-dev-assignments/tree/master/week5)
 
-**10/20 (周一):** 如何打造突破性的 AI 开发者产品 - [幻灯片](https://docs.google.com/presentation/d/1Djd4eBLBbRkma8rFnJAWMT0ptct_UGB8hipmoqFVkxQ/edit?usp=sharing)
+**10/20 (周一):** 如何打造突破性的 AI 开发者产品 - [PPT](https://docs.google.com/presentation/d/1Djd4eBLBbRkma8rFnJAWMT0ptct_UGB8hipmoqFVkxQ/edit?usp=sharing)
 
-**10/24 (周五):** [Zach Lloyd](https://www.linkedin.com/in/zachlloyd/)，CEO [Warp](https://www.warp.dev/) - [幻灯片](https://www.figma.com/slides/kwbcmtqTFQMfUhiMH8BiEx/Warp---Stanford--Copy-?node-id=9-116&t=oBWBCk8mjg2l2NR5-1)
+**10/24 (周五):** [Zach Lloyd](https://www.linkedin.com/in/zachlloyd/)，CEO [Warp](https://www.warp.dev/) - [PPT](https://www.figma.com/slides/kwbcmtqTFQMfUhiMH8BiEx/Warp---Stanford--Copy-?node-id=9-116&t=oBWBCk8mjg2l2NR5-1)
 
 ### 第六周：AI 测试与安全
 
@@ -147,7 +147,7 @@
 
 - [编写安全的 AI 代码](https://github.com/mihail911/modern-software-dev-assignments/blob/master/week6/assignment.md)
 
-**10/27 (周一):** AI 质量保证 (QA)、SAST、DAST 及更多 - [幻灯片](https://docs.google.com/presentation/d/1C05bCLasMDigBbkwdWbiz4WrXibzi6ua4hQQbTod_8c/edit?usp=sharing)
+**10/27 (周一):** AI 质量保证 (QA)、SAST、DAST 及更多 - [PPT](https://docs.google.com/presentation/d/1C05bCLasMDigBbkwdWbiz4WrXibzi6ua4hQQbTod_8c/edit?usp=sharing)
 
 **10/31 (周五):** [Isaac Evans](https://www.linkedin.com/in/isaacevans/)，CEO [Semgrep](https://semgrep.dev/)
 
@@ -172,9 +172,9 @@
 
 - [代码审查练习 (Reps)](https://github.com/mihail911/modern-software-dev-assignments/tree/master/week7)
 
-**11/3 (周一):** AI 代码审查 - [幻灯片](https://docs.google.com/presentation/d/1NkPzpuSQt6Esbnr2-EnxM9007TL6ebSPFwITyVY-QxU/edit?usp=sharing)
+**11/3 (周一):** AI 代码审查 - [PPT](https://docs.google.com/presentation/d/1NkPzpuSQt6Esbnr2-EnxM9007TL6ebSPFwITyVY-QxU/edit?usp=sharing)
 
-**11/7 (周五):** [Tomas Reimers](https://www.linkedin.com/in/tomasreimers/)，CPO [Graphite](https://graphite.dev/) - [幻灯片](https://drive.google.com/file/d/1hwF-RIkOJ_OFy17BKhzFyCtxSS7Pcf7p/view?usp=drive_link)
+**11/7 (周五):** [Tomas Reimers](https://www.linkedin.com/in/tomasreimers/)，CPO [Graphite](https://graphite.dev/) - [PPT](https://drive.google.com/file/d/1hwF-RIkOJ_OFy17BKhzFyCtxSS7Pcf7p/view?usp=drive_link)
 
 ### 第八周：自动化 UI 与应用构建
 
@@ -187,9 +187,9 @@
 
 - [多技术栈 Web 应用构建](https://github.com/mihail911/modern-software-dev-assignments/tree/master/week8)
 
-**11/10 (周一):** 单个提示词生成端到端应用 - [幻灯片](https://docs.google.com/presentation/d/1GrVLsfMFIXMiGjIW9D7EJIyLYh_-3ReHHNd_vRfZUoo/edit?usp=sharing)
+**11/10 (周一):** 单个提示词生成端到端应用 - [PPT](https://docs.google.com/presentation/d/1GrVLsfMFIXMiGjIW9D7EJIyLYh_-3ReHHNd_vRfZUoo/edit?usp=sharing)
 
-**11/14 (周五):** [Gaspar Garcia](https://www.linkedin.com/in/gaspargarcia/)，AI 研究主管 [Vercel](https://vercel.com/) - [幻灯片](https://docs.google.com/presentation/d/1Jf2aN5zIChd5tT86rZWWqY-iDWbxgR-uynKJxBR7E9E/edit?usp=sharing)
+**11/14 (周五):** [Gaspar Garcia](https://www.linkedin.com/in/gaspargarcia/)，AI 研究主管 [Vercel](https://vercel.com/) - [PPT](https://docs.google.com/presentation/d/1Jf2aN5zIChd5tT86rZWWqY-iDWbxgR-uynKJxBR7E9E/edit?usp=sharing)
 
 ### 第九周：部署后的智能体
 
@@ -208,9 +208,9 @@
 - [多智能体系统在打造 AI 原生软件工程师中的作用](https://resolve.ai/blog/role-of-multi-agent-systems-AI-native-engineering)
 - [代理式 AI 在待命工程 (On-call) 中的益处](https://resolve.ai/blog/Top-5-Benefits)
 
-**11/17 (周一):** 事件响应与 DevOps - [幻灯片](https://docs.google.com/presentation/d/1Mfe-auWAsg9URCujneKnHr0AbO8O-_U4QXBVOlO4qp0/edit?usp=sharing)
+**11/17 (周一):** 事件响应与 DevOps - [PPT](https://docs.google.com/presentation/d/1Mfe-auWAsg9URCujneKnHr0AbO8O-_U4QXBVOlO4qp0/edit?usp=sharing)
 
-**11/21 (周五):** [Mayank Agarwal](https://www.linkedin.com/in/mayank-ag/)，CTO [Resolve](https://resolve.ai/)，以及 [Milind Ganjoo](https://www.linkedin.com/in/mganjoo/)，技术专员 [Resolve](https://resolve.ai/)- [幻灯片](https://drive.google.com/file/d/11WnEbMGc9kny_WBpMN10I8oP8XsiQOnM/view?usp=sharing)
+**11/21 (周五):** [Mayank Agarwal](https://www.linkedin.com/in/mayank-ag/)，CTO [Resolve](https://resolve.ai/)，以及 [Milind Ganjoo](https://www.linkedin.com/in/mganjoo/)，技术专员 [Resolve](https://resolve.ai/)- [PPT](https://drive.google.com/file/d/11WnEbMGc9kny_WBpMN10I8oP8XsiQOnM/view?usp=sharing)
 
 ### 第十周：AI 软件工程的未来
 
