@@ -243,7 +243,7 @@ CS146S: 现代软件开发者
 | Awesome Vibe Coding          |精选的Vibe Coding编程资源 | [link](https://github.com/filipecalegario/awesome-vibe-coding) |
 |  CCSwitch                    | Claude Code 配置切换工具 | [link](https://github.com/farion1231/cc-switch  ) |
 | Vibe Coding Workflow         |一些Vibe coding 模板资源 | [link](https://github.com/KhazP/vibe-coding-prompt-template) |
-| Vibe Coding Skills官方仓库         |一些Vibe coding 模板资源 | [link](https://github.com/anthropics/skills)) |
+| Vibe Coding Skills         |Claude Code 官方Skills仓库 | [link](https://github.com/anthropics/skills)) |
 
 
 
