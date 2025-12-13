@@ -3,3 +3,7 @@
 ## Claude Code Skills 教程
 
 [SKills 中文教程](https://zhuanlan.zhihu.com/p/1966991482029319569)
+
+
+## Claude Code 完全教程
+[Claude Code 中文教程](https://claudecode.io/zh/guides)
