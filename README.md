@@ -17,7 +17,7 @@
 
 中文版本由 北京理工大学 博士 支持！
 - [本地化vibe coding工具](model_tool.md) 包括模型、命令行工具、IDE以及国内厂商的coding plan计划
-- [中文教材及资料](material.md)
+- [中文教材、资料及课程作业](material.md)
 - [中文视频](video.md)  包括官方视频汉化版 以及 国内up主的vibe coding视频。
 
 ## Claude Code Easy 套件
