@@ -15,7 +15,7 @@
 ## 免费 Vibe Coding 工具
 
 - [iFlow Cli](https://cli.iflow.cn/)
-- [Qwencode](https://qwenlm.github.io/qwen-code-docs/en/cli/)
+- [Qwencode](https://qwenlm.github.io/qwen-code-docs/en/users/overview/)
 - [Codebuddy](https://codebuddy.cn)
   
 
