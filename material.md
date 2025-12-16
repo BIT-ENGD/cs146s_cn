@@ -1,4 +1,7 @@
 # 教程与资料
+## 各周作业
+
+[本课程每周作业](weekly.md)
 
 ## Claude Code Skills 教程
 
